@@ -37,14 +37,14 @@
 <br>
 
 ## Contributions
-### Contributions are welcome! see [Contribution's Guide](https://github.com/Sagar-Sharma-7/dictionary/blob/main/CONTRIBUTING.md)
+### Contributions are welcome! see [Contribution's Guide](https://github.com/Sagar-Sharma-7/Armstrong_num/blob/main/CONTRIBUTING.md)
 
 <br>
 
 ## Code of Conduct 
 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> 
 
-### Be nice. See our [code of conduct](https://github.com/Sagar-Sharma-7/dictionary/blob/main/CODE_OF_CONDUCT.md)
+### Be nice. See our [code of conduct](https://github.com/Sagar-Sharma-7/Armstrong_num/blob/main/CODE_OF_CONDUCT.md)
 
 <br>
 <hr>
